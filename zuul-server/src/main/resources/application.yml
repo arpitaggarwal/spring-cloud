@@ -1,0 +1,12 @@
+zuul:
+  routes:
+    eureka-client_path:
+      path: /employee-service/employee/get
+      url: http://localhost:2222
+
+ribbon:
+  eureka:
+    enabled: false
+
+server:
+  port: 8090
