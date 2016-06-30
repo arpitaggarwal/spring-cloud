@@ -17,7 +17,7 @@ Go to eureka-client directory and run the command : `mvn spring-boot:run`. Once 
 
 ### 4. Start Employee Service - One
 
-Go to employee-service-one directory and run the command : `mvn spring-boot:run`. Once started Employee Service - One will be accessible at `http://localhost:9998/employee/get` and bind itself with Eureka Server.
+Go to employee-service-one directory and run the command : `mvn spring-boot:run`. Once started Employee Service - One will be accessible at `http://localhost:9999/employee/get` and bind itself with Eureka Server.
 
 
 ### 5. Start Employee Service - Two
